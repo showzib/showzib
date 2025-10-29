@@ -8,8 +8,8 @@
 ---
 
 ### 💫 About Me
-- 🌱 I’m currently learning **JavaScript** at SMIT  
-- 💻 Skilled in **HTML, CSS, JavaScript, Bootstrap**  
+- 🌱 I’m currently learning **React.js** at SMIT  
+- 💻 Skilled in **HTML, CSS, JavaScript, Bootstrap, Tailwindcss,**  
 - 🎯 My focus: Becoming a strong **Mern Stack Developer**
 - how to reach me showzibtanveer11@gmail.com
 - 📍 Based in **Karachi, Pakistan**  
