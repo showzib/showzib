@@ -10,15 +10,15 @@
 ### 💫 About Me
 - 🌱 I’m currently learning **JavaScript** at SMIT  
 - 💻 Skilled in **HTML, CSS, JavaScript, Bootstrap**  
-- 🎯 My focus: Becoming a strong **Frontend Developer** before moving to React  
+- 🎯 My focus: Becoming a strong **Frontend Developer**
 - 📍 Based in **Karachi, Pakistan**  
-- ⚡ Fun fact: I can spend hours perfecting small UI details 😄  
+- ⚡ Fun fact: I can spend hours perfecting UI details 😄  
 
 ---
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwindcss,vscode,github,git,slack," />
 </p>
 
 ---
