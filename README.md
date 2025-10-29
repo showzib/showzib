@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Showzib Tanveer</h1>
-<h3 align="center">Frontend Web Developer from Karachi, Pakistan</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=showzib&label=Profile%20views&color=0e75b6&style=flat" alt="showzib" />
@@ -10,7 +10,8 @@
 ### 💫 About Me
 - 🌱 I’m currently learning **JavaScript** at SMIT  
 - 💻 Skilled in **HTML, CSS, JavaScript, Bootstrap**  
-- 🎯 My focus: Becoming a strong **Frontend Developer**
+- 🎯 My focus: Becoming a strong **Mern Stack Developer**
+- how to reach me showzibtanveer11@gmail.com
 - 📍 Based in **Karachi, Pakistan**  
 - ⚡ Fun fact: I can spend hours perfecting UI details 😄  
 
