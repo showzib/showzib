@@ -26,15 +26,18 @@
 ### 🚀 My Projects
 | Project | Description | Live Demo |
 |----------|--------------|------------|
+| 💼 [Portfolio](https://showzib.github.io/Portfolio/) | My personal portfolio website | [Visit](https://showzib.github.io/Portfolio/) |
 | 🎨 [Art Gallery](https://showzib.github.io/Art-gallery/) | A stylish art gallery website made with HTML, CSS & JS | [Visit](https://showzib.github.io/Art-gallery/) |
-| 💼 [Portfolio](https://showzib.github.io/showzib-tanveer/) | My personal portfolio website | [Visit](https://showzib.github.io/showzib-tanveer/) |
 
 ---
 
 ### 📜 Certificates
 Here are some of my course completions and certifications:
-- SMIT Web & App Development (Ongoing)
-- JavaScript Fundamentals (In Progress)
+- SMIT Web & App Development (in progress)
+- JavaScript Fundamentals
+- IT Essential from (JDC)
+- javaScript Algorithms and Data Structure (FreeCodeCamp) 
+- Responsive web design (FreeCodeCamp) 
 
 ---
 
